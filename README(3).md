@@ -66,27 +66,33 @@ python student_info.py
 
 ### 🟢 Add Student
 
-![Add Student](1.png)
+<img width="617" height="667" alt="1" src="https://github.com/user-attachments/assets/b4a07a61-e8a6-4562-a6e9-7d7ec06c478d" />
+
 
 ### 📋 Display Students
 
-![Display Students](2.png)
+<img width="532" height="420" alt="2" src="https://github.com/user-attachments/assets/313585fa-01ec-411c-b821-96ffd7dfb52f" />
+
 
 ### ✏️ Update Student
 
-![Update Student](3.png)
+<img width="380" height="412" alt="3" src="https://github.com/user-attachments/assets/f8999754-1173-4542-bd81-1cd39fbf34b2" />
+
 
 ### 🗑️ Delete Student
 
-![Delete Student](4.png)
+<img width="495" height="597" alt="4" src="https://github.com/user-attachments/assets/16689da5-33b6-4aa2-ba18-12d09fe38700" />
+
 
 ### 📚 Subjects Offered
 
-![Subjects](5.png)
+<img width="387" height="316" alt="5" src="https://github.com/user-attachments/assets/527a20d4-4987-4e05-84e1-dce33ec35da0" />
+
 
 ### 🚪 Exit
 
-![Exit](6.png)
+<img width="471" height="152" alt="6" src="https://github.com/user-attachments/assets/6eda2ac5-749a-4e85-9eb5-ff2eec0c7668" />
+
 
 ------------------------------------------------------------------------
 
